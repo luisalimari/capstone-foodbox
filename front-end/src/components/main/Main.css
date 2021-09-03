@@ -1,0 +1,18 @@
+body {
+  background-color: #B0C4DE;
+}
+
+.grid-item {
+  margin-left: 0;
+  margin-top: 40px;
+  padding: 25px 10px;
+  height: 100%;
+  border-left: 0px solid gray;
+}
+
+.grid-main {
+  margin-left: 0;
+  margin-top: 40px;
+  padding: 25px 10px;
+  height: 100%;
+}
